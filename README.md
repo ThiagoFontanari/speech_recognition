@@ -1,0 +1,1 @@
+### A small speech recognition system. From the command received through the microphone, the system opens the desired website. | Um pequeno sistema de reconhecimento de fala. A partir do comando recebido através do microfone, o sistema abre o website desejado.
